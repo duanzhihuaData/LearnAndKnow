@@ -3,7 +3,7 @@
 - yum源配置  
 <https://www.runoob.com/linux/linux-yum.html>
 
-- redis安装配置   
+- redis安装配置    
 
 https://www.cnblogs.com/autohome7390/p/6433956.html>
 
@@ -38,4 +38,8 @@ GRANT ALL ON *.* TO 'admin' WITH GRANT OPTION;
 以下是修改mysql参数：
 SET GLOBAL max_allowed_packet=1024*1024*16;
 ```   
-- nginx 安装
+- nginx 安装   
+<https://blog.csdn.net/u014695188/article/details/51066824>   
+
+- yum 安装java   
+<https://www.cnblogs.com/kevingrace/p/5870814.html>
