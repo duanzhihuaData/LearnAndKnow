@@ -3,9 +3,9 @@
 - yum源配置  
 <https://www.runoob.com/linux/linux-yum.html>
 
-- redis安装配置    
 
-https://www.cnblogs.com/autohome7390/p/6433956.html>
+- redis安装配置   
+<https://www.cnblogs.com/autohome7390/p/6433956.html>
 
 - mysql 安装配置  
 ```
